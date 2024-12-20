@@ -1,0 +1,13 @@
+{
+  "name": "php-sitemap-generator",
+  "database": {
+    "host": "localhost",
+    "port": "3306",
+    "db": "sitemap_db",
+    "username": "root",
+    "password": ""
+  },
+  "site": {
+    "domain": "roman.matviy.pp.ua"
+  }
+}
